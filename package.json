@@ -1,0 +1,26 @@
+{
+  "name": "01-node-ecosystem",
+  "version": "1.0.0",
+  "description": "01-node-ecosystem lab",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatherineHanson/01-node-ecosystem.git"
+  },
+  "author": "Katherine Hanson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KatherineHanson/01-node-ecosystem/issues"
+  },
+  "homepage": "https://github.com/KatherineHanson/01-node-ecosystem#readme",
+  "devDependencies": {},
+  "dependencies": {
+  "jest": "^21.0.2"
+  }
+}

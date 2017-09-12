@@ -1,0 +1,23 @@
+{
+  "name": "01-node-ecosystem",
+  "version": "1.0.0",
+  "description": "First lab of 401",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^21.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronbarrantes/01-node-ecosystem.git"
+  },
+  "author": "Ron Barrantes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ronbarrantes/01-node-ecosystem/issues"
+  },
+  "homepage": "https://github.com/ronbarrantes/01-node-ecosystem#readme"
+}
